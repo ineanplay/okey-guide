@@ -4,20 +4,20 @@
   "disclaimer": "Local, annual, platform and tournament rules take precedence.",
   "articles": [
     {
-      "title": "Okey: Complete Beginner Rules",
+      "title": "Okey: Complete Rules, Formulas, and Worked Examples",
       "family": "Okey",
       "region": "Turkey and international Okey communities",
       "version": "Common four-player framework; scoring varies",
-      "summary": "Learn the indicator, true Joker, false Jokers, runs, sets, seven pairs, and draw-discard play.",
+      "summary": "Complete 106-tile formula, indicator calculation, legal groups, turn flow, seven pairs, and worked hand.",
       "path": "docs/01-okey.md",
       "url": "https://github.com/ineanplay/okey-guide/blob/main/docs/01-okey.md"
     },
     {
-      "title": "101 Okey: Complete Beginner Rules",
+      "title": "101 Okey: Complete Rules, Opening Formula, and Examples",
       "family": "Okey",
       "region": "Turkey and international 101 Okey communities",
       "version": "Common framework; opening and penalty rules vary",
-      "summary": "Learn the 101-point opening, melds, table play, Jokers, finishing, and penalty accounting.",
+      "summary": "Complete 101-point opening formula, valid and invalid examples, table play, finishing, and penalty worksheet.",
       "path": "docs/02-101-okey.md",
       "url": "https://github.com/ineanplay/okey-guide/blob/main/docs/02-101-okey.md"
     }

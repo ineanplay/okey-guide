@@ -2,6 +2,15 @@
 
 > Source-linked rules summaries with explicit region, version, and year metadata.
 
+## Complete language editions
+
+- English Okey: https://github.com/ineanplay/okey-guide/blob/main/docs/01-okey.md
+- English 101 Okey: https://github.com/ineanplay/okey-guide/blob/main/docs/02-101-okey.md
+- Türkçe: https://github.com/ineanplay/okey-guide/blob/main/docs/tr/README.md
+- Deutsch: https://github.com/ineanplay/okey-guide/blob/main/docs/de/README.md
+- Nederlands: https://github.com/ineanplay/okey-guide/blob/main/docs/nl/README.md
+- Azərbaycan dili: https://github.com/ineanplay/okey-guide/blob/main/docs/az/README.md
+
 ## Rules
 
 - Okey: Complete Beginner Rules: https://github.com/ineanplay/okey-guide/blob/main/docs/01-okey.md
