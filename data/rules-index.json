@@ -1,0 +1,25 @@
+{
+  "updated": "2026-07-11",
+  "scope": "Okey rules and beginner guides",
+  "disclaimer": "Local, annual, platform and tournament rules take precedence.",
+  "articles": [
+    {
+      "title": "Okey: Complete Beginner Rules",
+      "family": "Okey",
+      "region": "Turkey and international Okey communities",
+      "version": "Common four-player framework; scoring varies",
+      "summary": "Learn the indicator, true Joker, false Jokers, runs, sets, seven pairs, and draw-discard play.",
+      "path": "docs/01-okey.md",
+      "url": "https://github.com/ineanplay/okey-guide/blob/main/docs/01-okey.md"
+    },
+    {
+      "title": "101 Okey: Complete Beginner Rules",
+      "family": "Okey",
+      "region": "Turkey and international 101 Okey communities",
+      "version": "Common framework; opening and penalty rules vary",
+      "summary": "Learn the 101-point opening, melds, table play, Jokers, finishing, and penalty accounting.",
+      "path": "docs/02-101-okey.md",
+      "url": "https://github.com/ineanplay/okey-guide/blob/main/docs/02-101-okey.md"
+    }
+  ]
+}

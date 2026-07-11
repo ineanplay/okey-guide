@@ -1,0 +1,14 @@
+# Okey and 101 Okey Beginner Guide
+
+> Source-linked rules summaries with explicit region, version, and year metadata.
+
+## Rules
+
+- Okey: Complete Beginner Rules: https://github.com/ineanplay/okey-guide/blob/main/docs/01-okey.md
+- 101 Okey: Complete Beginner Rules: https://github.com/ineanplay/okey-guide/blob/main/docs/02-101-okey.md
+
+## Contact
+
+- Website: https://ineanplay.com/
+- WhatsApp: https://wa.me/8617378390199
+- Email: service@ineanplay.com
