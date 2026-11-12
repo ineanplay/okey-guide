@@ -67,8 +67,8 @@ Alternatively, where seven pairs is accepted:
 
 ## 4. Setup and turn flow
 
-The indicator is selected using the table's dealing procedure. Four players
-normally receive 14 tiles; the starter receives 15 and discards first.
+The indicator is selected using the table's dealing procedure. The three other players
+receive 14 tiles each; the starter receives 15 and discards first.
 
 ```mermaid
 flowchart LR
@@ -97,10 +97,10 @@ false joker represents an ordinary Yellow 9.
 | Blue `6-7-8` | three-tile run |
 | Black/Red/Yellow `11` | three-color set |
 | Black `12-13-1` | legal high-1 run |
-| true joker | substitutes for the missing fourth tile in a chosen legal group |
+| true joker | represents Blue 5, extending the blue run to `5-6-7-8` |
 
-The player must assign the joker so all 14 retained tiles partition into legal
-groups, then discard the fifteenth tile. Simply holding many connected tiles is
+The retained groups contain `4 + 4 + 3 + 3 = 14` tiles. The player then
+discards the fifteenth tile. Simply holding many connected tiles is
 not enough.
 
 ## 6. Finishing and scoring

@@ -59,6 +59,8 @@ flowchart LR
 
 ## 101 Okey
 
+In den hier zitierten 101-Regeln steht die 1 nur am unteren Ende: `1-2-3` ist gültig, `12-13-1` nicht. Dies unterscheidet 101 Okey vom klassischen OKEY.
+
 Üblich sind 21 Steine pro Spieler und 22 für den Startspieler. Die erste eigene
 Auslage muss mindestens 101 Punkte aus gültigen Kombinationen erreichen:
 

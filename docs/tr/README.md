@@ -64,6 +64,8 @@ atar. Perler normalde bitişe kadar elde gizli tutulur.
 
 ## 101 Okey açılış hesabı
 
+Bu bölümdeki 101 kuralında 1 yalnız düşük uçta kullanılır: `1-2-3` geçerlidir, `12-13-1` geçerli değildir. Klasik OKEY ile bu farkı koruyun.
+
 Oyuncular genellikle 21, başlayan oyuncu 22 taş alır. İlk açılışta oyuncunun
 kendi elinden koyduğu geçerli perlerin toplamı en az 101 olmalıdır.
 

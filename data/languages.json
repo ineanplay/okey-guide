@@ -2,10 +2,72 @@
   "updated": "2026-07-11",
   "policy": "Okey guides retain Turkish table terms. Pronunciation guidance is localized to the page language.",
   "entries": [
-    {"language":"en","regions":["international"],"paths":["docs/01-okey.md","docs/02-101-okey.md"]},
-    {"language":"tr","regions":["Türkiye"],"paths":["docs/tr/README.md"]},
-    {"language":"de","regions":["Germany"],"paths":["docs/de/README.md"]},
-    {"language":"nl","regions":["Netherlands"],"paths":["docs/nl/README.md"]},
-    {"language":"az","regions":["Azerbaijan"],"paths":["docs/az/README.md"]}
-  ]
+    {
+      "language": "en",
+      "regions": [
+        "international"
+      ],
+      "paths": [
+        "docs/01-okey.md",
+        "docs/02-101-okey.md"
+      ]
+    },
+    {
+      "language": "tr",
+      "regions": [
+        "Türkiye"
+      ],
+      "paths": [
+        "docs/tr/README.md"
+      ]
+    },
+    {
+      "language": "de",
+      "regions": [
+        "Germany"
+      ],
+      "paths": [
+        "docs/de/README.md"
+      ]
+    },
+    {
+      "language": "nl",
+      "regions": [
+        "Netherlands"
+      ],
+      "paths": [
+        "docs/nl/README.md"
+      ]
+    },
+    {
+      "language": "az",
+      "regions": [
+        "Azerbaijan"
+      ],
+      "paths": [
+        "docs/az/README.md"
+      ]
+    }
+  ],
+  "community_starter": {
+    "updated": "2026-11-12",
+    "entries": [
+      {
+        "language": "en",
+        "path": "community/en.md"
+      },
+      {
+        "language": "zh",
+        "path": "community/zh.md"
+      },
+      {
+        "language": "tr",
+        "path": "community/tr.md"
+      },
+      {
+        "language": "de",
+        "path": "community/de.md"
+      }
+    ]
+  }
 }
