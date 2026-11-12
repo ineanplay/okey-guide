@@ -52,31 +52,16 @@ Kural sürümü, dağıtım, çiftler, açılış sınırı, atılan taşı alma
 
 </details>
 
-## Devam kaynakları ve indirme
+## Öğrenme kaynakları ve formlar
 
-- [Classic OKEY / Klasik OKEY](../docs/01-okey.md)
-- [101 Okey](../docs/02-101-okey.md)
-- [Pagat: classic OKEY](https://www.pagat.com/rummy/okey.html)
-- [Pagat: 101 Okey](https://www.pagat.com/rummy/okey101.html)
-- [PDF: Türkçe](https://github.com/ineanplay/okey-mahjong-printables/blob/main/output/pdf/game-night-pack-tr.pdf)
+- [Adım adım alıştırmalar ve örnekler](../learn/tr.md)
+- [Form doldurma ve tamamlanmış örnekler](https://github.com/ineanplay/okey-mahjong-printables/blob/main/docs/tr.md)
+- [Türkçe PDF indir (5 sayfa)](https://github.com/ineanplay/okey-mahjong-printables/raw/refs/heads/main/output/pdf/game-night-pack-tr.pdf)
+- [Türkçe PDF önizlemesi](https://github.com/ineanplay/okey-mahjong-printables/blob/main/output/pdf/game-night-pack-tr.pdf)
 
-2026-11-12 · [Contribute](../CONTRIBUTING.md)
+## Kural kaynakları (isteğe bağlı)
 
----
+Bu dış kaynaklar kuralları karşılaştırmak içindir. Yukarıdaki ders veya indirme için açmanız gerekmez. Hedef site ve dil bağlantıda belirtilmiştir.
 
-## INEAN PLAY hakkında
-
-INEAN PLAY; evler, kulüpler, kafeler ve oyun salonları için otomatik OKEY masaları, otomatik mahjong masaları ve uyumlu aksesuarlar sunar, ürün kullanımı konusunda destek sağlar. Oyunseverlerin kuralları öğrenmesine, oyun buluşmaları düzenlemesine ve ekipmanlarının bakımını yapmasına yardımcı olmak için ücretsiz topluluk kaynakları hazırlıyoruz. Düzeltme, çeviri ve geliştirme önerilerinizi bekliyoruz.
-
-Bu proje, yeni oyuncuların ilk oyunlarına hazırlanmasına ve masada geçerli kuralları belirlemesine yardımcı olur.
-
-### Ürünler ve teklifler
-
-- [Standart OKEY masası](https://ineanplay.com/products/inean-otokey)
-- [Katlanır OKEY masası](https://ineanplay.com/products/inean-otokey-f)
-
-[Resmi web sitesi](https://ineanplay.com/) · [Teklif isteyin](https://ineanplay.com/pages/contact) · [Destek ve kılavuzlar](https://ineanplay.com/pages/support)
-
-[service@ineanplay.com](mailto:service@ineanplay.com) · [WhatsApp +86 173 7839 0199](https://wa.me/8617378390199)
-
-[Facebook](https://www.facebook.com/profile.php?id=61585370578775) · [Instagram](https://www.instagram.com/ineanplay/) · [TikTok](https://www.tiktok.com/@ineanplay) · [YouTube](https://www.youtube.com/@ineanplay)
+- [Pagat / OKEY (İngilizce; dış site)](https://www.pagat.com/rummy/okey.html)
+- [Pagat / 101 Okey (İngilizce; dış site)](https://www.pagat.com/rummy/okey101.html)

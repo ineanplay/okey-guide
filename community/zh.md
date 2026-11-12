@@ -52,31 +52,16 @@
 
 </details>
 
-## 继续阅读与下载
+## 学习资料与打印表
 
-- [Classic OKEY / Klasik OKEY](../docs/01-okey.md)
-- [101 Okey](../docs/02-101-okey.md)
-- [Pagat: classic OKEY](https://www.pagat.com/rummy/okey.html)
-- [Pagat: 101 Okey](https://www.pagat.com/rummy/okey101.html)
-- [PDF: 简体中文](https://github.com/ineanplay/okey-mahjong-printables/blob/main/output/pdf/game-night-pack-zh.pdf)
+- [逐步练习与完整示例](../learn/zh.md)
+- [填表方法与已填写示例](https://github.com/ineanplay/okey-mahjong-printables/blob/main/docs/zh.md)
+- [下载中文 PDF（5页）](https://github.com/ineanplay/okey-mahjong-printables/raw/refs/heads/main/output/pdf/game-night-pack-zh.pdf)
+- [预览中文 PDF](https://github.com/ineanplay/okey-mahjong-printables/blob/main/output/pdf/game-night-pack-zh.pdf)
 
-2026-11-12 · [Contribute](../CONTRIBUTING.md)
+## 规则来源与核对资料（选读）
 
----
+以下外部资料仅供核对规则依据；完成上面的练习或下载无需打开这些网站。链接已标明目的地及语言。
 
-## 关于 INEAN PLAY
-
-INEAN PLAY 专注于自动 OKEY 桌、自动麻将桌及相关配件，为家庭、俱乐部、咖啡馆和游戏室提供产品与使用支持。我们维护这些免费社区资源，帮助爱好者学习玩法、组织牌局和做好日常保养，欢迎大家提出纠错、翻译和改进建议。
-
-本项目帮助新玩家准备第一场牌局，并辨明牌桌采用的具体规则。
-
-### 产品与询价
-
-- [标准款自动 OKEY 桌](https://ineanplay.com/products/inean-otokey)
-- [折叠款自动 OKEY 桌](https://ineanplay.com/products/inean-otokey-f)
-
-[官方网站](https://ineanplay.com/) · [产品询价](https://ineanplay.com/pages/contact) · [支持与说明书](https://ineanplay.com/pages/support)
-
-[service@ineanplay.com](mailto:service@ineanplay.com) · [WhatsApp +86 173 7839 0199](https://wa.me/8617378390199)
-
-[Facebook](https://www.facebook.com/profile.php?id=61585370578775) · [Instagram](https://www.instagram.com/ineanplay/) · [TikTok](https://www.tiktok.com/@ineanplay) · [YouTube](https://www.youtube.com/@ineanplay)
+- [Pagat / OKEY (英语；外部网站)](https://www.pagat.com/rummy/okey.html)
+- [Pagat / 101 Okey (英语；外部网站)](https://www.pagat.com/rummy/okey101.html)

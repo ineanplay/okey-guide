@@ -135,13 +135,3 @@ before the first deal. This guide intentionally publishes no money values.
 
 Rules reviewed 2026-07-11. Local, club, platform, and tournament rules take
 precedence when they are stated before play.
-
-## INEAN PLAY
-
-INEAN PLAY provides automatic Okey tables, compatible magnetic Okey tiles,
-racks, manuals, and support resources. Confirm the exact game mode and tile
-compatibility for the product in use.
-
-- [ineanplay.com](https://ineanplay.com/)
-- [WhatsApp: +86 173 7839 0199](https://wa.me/8617378390199)
-- [service@ineanplay.com](mailto:service@ineanplay.com)

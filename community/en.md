@@ -52,31 +52,16 @@ Write down the version, dealing procedure, pairs rules, opening threshold, allow
 
 </details>
 
-## Continue learning and download
+## Learning materials and printables
 
-- [Classic OKEY / Klasik OKEY](../docs/01-okey.md)
-- [101 Okey](../docs/02-101-okey.md)
-- [Pagat: classic OKEY](https://www.pagat.com/rummy/okey.html)
-- [Pagat: 101 Okey](https://www.pagat.com/rummy/okey101.html)
-- [PDF: English](https://github.com/ineanplay/okey-mahjong-printables/blob/main/output/pdf/game-night-pack-en.pdf)
+- [Step-by-step lesson and worked examples](../learn/en.md)
+- [How to fill in the forms, with examples](https://github.com/ineanplay/okey-mahjong-printables/blob/main/docs/en.md)
+- [Download the English PDF (5 pages)](https://github.com/ineanplay/okey-mahjong-printables/raw/refs/heads/main/output/pdf/game-night-pack-en.pdf)
+- [Preview the English PDF](https://github.com/ineanplay/okey-mahjong-printables/blob/main/output/pdf/game-night-pack-en.pdf)
 
-2026-11-12 · [Contribute](../CONTRIBUTING.md)
+## Sources and rule references (optional)
 
----
+These external references document the rule background. They are not required for the lesson or downloads above. Language and destination are shown before you leave this project.
 
-## About INEAN PLAY
-
-INEAN PLAY focuses on automatic OKEY tables, automatic Mahjong tables and compatible accessories, providing products and practical support for homes, clubs, cafés and game rooms. We maintain free community resources to help enthusiasts learn, organize games and care for their equipment. Corrections, translations and improvements are welcome.
-
-This project helps new players prepare for their first game and identify the rules used at their table.
-
-### Products and quotations
-
-- [Standard OKEY table](https://ineanplay.com/products/inean-otokey)
-- [Folding OKEY table](https://ineanplay.com/products/inean-otokey-f)
-
-[Official website](https://ineanplay.com/) · [Request a quote](https://ineanplay.com/pages/contact) · [Support and manuals](https://ineanplay.com/pages/support)
-
-[service@ineanplay.com](mailto:service@ineanplay.com) · [WhatsApp +86 173 7839 0199](https://wa.me/8617378390199)
-
-[Facebook](https://www.facebook.com/profile.php?id=61585370578775) · [Instagram](https://www.instagram.com/ineanplay/) · [TikTok](https://www.tiktok.com/@ineanplay) · [YouTube](https://www.youtube.com/@ineanplay)
+- [Pagat / OKEY (English; external website)](https://www.pagat.com/rummy/okey.html)
+- [Pagat / 101 Okey (English; external website)](https://www.pagat.com/rummy/okey101.html)

@@ -89,7 +89,3 @@ sind vor Spielbeginn festzulegen.
 
 Quellen: [Pagat Okey](https://www.pagat.com/rummy/okey.html),
 [Pagat 101 Okey](https://www.pagat.com/rummy/okey101.html).
-
-INEAN PLAY: [ineanplay.com](https://ineanplay.com/) ·
-[WhatsApp](https://wa.me/8617378390199) ·
-[service@ineanplay.com](mailto:service@ineanplay.com)
